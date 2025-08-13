@@ -1,4 +1,4 @@
-# 📘 KubeSkills GitHub Repository of Work (GROW)
+# 📘 mcgonagle's KubeSkills GitHub Repository of Work (GROW)
 
 Welcome to mcgonagle's **KubeSkills GitHub Repository of Work (GROW)** 🪴.
 
@@ -27,3 +27,17 @@ I welcome your reflections, labs, and questions.
 👉 [Read the Contribution Guide](CONTRIBUTING.md)
 
 Whether it's fixing a typo or adding a new tutorial, your contributions help everyone GROW. 🌱
+
+---
+## Additional Resources
+
+* 💬 [Kubernetes Slack Channel #certifications](https://kubernetes.slack.com/)
+* 📚 [O'Reilly: Certified Kubernetes Administrator (CKA) Study Guide](https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/)
+* 📚 [O'Reilly: Certified Kubernetes Application Developer (CKAD) Study Guide, 2nd Edition](https://learning.oreilly.com/library/view/certified-kubernetes-application/9781098152857/)
+* 📚 [Manning: Acing the Certified Kubernetes Administrator Exam](https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam)
+* 🎞️ [LinkedIn Learning: Certified Kubernetes Administrator (CKA) Cert Prep: The Basics](https://www.linkedin.com/learning/certified-kubernetes-administrator-cka-cert-prep-the-basics)
+* 🎞️ [KodeKloud: CKA Certification Course – Certified Kubernetes Administrator](https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests)
+* 🧪 [O'Reilly: Katacoda CKA Practice Labs](https://learning.oreilly.com/playlists/65351d22-34eb-4be3-9f35-d9c0b184449f/)
+* 🧪 [Killer Shell: CKA Simulator](https://killer.sh/cka)
+* 🧪 [KillerCoda: CKA Scenarios](https://killercoda.com/cka)
+* 🧪 [Study4Exam: Certified Kubernetes Administrator Exam](https://www.study4exam.com/linux-foundation/info/cka)
