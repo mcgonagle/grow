@@ -1,9 +1,9 @@
-# 🤝 Contributing to the KubeSkills Student Notebook
+# 🤝 mcgonagle's GitHub Repository of Work
 
-Welcome, GROW participant!  
-This repository is more than a notebook, it's your public record of learning and a contribution to the Kubernetes community.
+Welcome to my GROW!  
+This repository is more than a notebook, it's my public record of learning and a contribution to the Kubernetes community.
 
-Whether you're updating your weekly reflections, sharing a new lab, or improving documentation—you’re making this repo stronger. Thank you! 🙌
+Whether I'm updating my weekly reflections, sharing a new lab, or improving documentation—you’re making this repo stronger. Thank you! 🙌
 
 ---
 
@@ -24,8 +24,8 @@ Whether you're updating your weekly reflections, sharing a new lab, or improving
 Click the "Fork" button and clone it locally:
 
 ```bash
-git clone https://github.com/<your-username>/student-notebook.git
-cd student-notebook
+git clone https://github.com/mcgonagle/grow.git
+cd grow
 ```
 
 ---
@@ -35,7 +35,7 @@ cd student-notebook
 Here's how the repostiory is organized:
 
 ```bash
-student-notebook/
+grow/
 ├── 00-getting-started/ # Setup instructions and onboarding
 ├── 01-kubernetes-fundamentals/ # Pod and deployment labs
 ├── 02-gitops/ # FluxCD GitOps exercises
