@@ -4,6 +4,12 @@ Welcome to mcgonagle's **KubeSkills GitHub Repository of Work (GROW)** 🪴.
 
 This is my personal portfolio to document everything I am/have learned through Kubernetes labs, YAML exercises, and weekly reflections.
 
+---
+## What is KubeSkills GitHub Repository of Work (GROW)
+[KubeSkills](https://kubeskills.com/) launched GROW, as a unique program that helps learners build a public GitHub portfolio through hands-on Kubernetes labs, GitOps workflows, and security best practices. The structure includes ready-to-fork repositories, weekly labs with YAML and CLI examples, and built-in support for GitHub Pages—making it easy to turn learning into visible, versioned work.
+
+Ideal for developers, SREs, or anyone preparing for certifications like CKA or CKAD, GROW emphasizes reflection and documentation. Participants create a portfolio that demonstrates their real-world skills—perfect for interviews, job applications, and technical showcases.
+
 
 ---
 
