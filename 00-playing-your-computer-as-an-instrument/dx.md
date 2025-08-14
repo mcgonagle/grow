@@ -77,7 +77,6 @@ brew install kubectx
 ```
 
 #### Oh-My-Zsh Plugins
-Enable plugins in your `.zshrc` file. `kubeon` seems to be a typo, so I am assuming you meant the standard `kubectl` and `kubectx` plugins.
 ```bash
 plugins=(git kubectl kubectx dirhistory)
 ```
